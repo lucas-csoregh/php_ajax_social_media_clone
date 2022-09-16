@@ -1,0 +1,44 @@
+"12-05-2022 16:45:37","SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)","C:\wamp64\www\school\webapplicaties\APP_FINAL\APP_final\connections\pdo.inc.php",26
+"12-05-2022 16:46:23","SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)","C:\wamp64\www\school\webapplicaties\APP_FINAL\APP_final\connections\pdo.inc.php",26
+"12-05-2022 16:46:31","SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)","C:\wamp64\www\school\webapplicaties\APP_FINAL\APP_final\connections\pdo.inc.php",26
+"12-05-2022 16:46:33","SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)","C:\wamp64\www\school\webapplicaties\APP_FINAL\APP_final\connections\pdo.inc.php",26
+"14-05-2022 17:33:16","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 6' at line 3","C:\wamp64\www\school\eindwerk\scripts\A_logon.php",97
+"14-05-2022 17:33:57","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 6' at line 3","C:\wamp64\www\school\eindwerk\scripts\A_logon.php",97
+"14-05-2022 17:36:03","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1","C:\wamp64\www\school\eindwerk\scripts\M_tonen.php",19
+"14-05-2022 19:35:38","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 6' at line 3","C:\wamp64\www\school\eindwerk\scripts\A_logon.php",97
+"14-05-2022 19:35:43","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 6' at line 3","C:\wamp64\www\school\eindwerk\scripts\A_logon.php",97
+"17-05-2022 09:21:58","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:22:26","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:22:29","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:23:26","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut='0'
+                         WHERE d_user='8'' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:23:28","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut='0'
+                         WHERE d_user='8'' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:24:40","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut=0
+                         WHERE d_user=8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:24:43","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut=0
+                         WHERE d_user=8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:24:50","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut=0
+                         WHERE d_user=8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:26:55","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut='0'
+                  WHERE d_user='8'' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:30:00","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:30:24","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0
+                         WHERE d_user = 8' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:45:31","SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mydb.ts_authentication' doesn't exist","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",57
+"17-05-2022 09:45:51","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 09:57:05","SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mydb.ts_authentication' doesn't exist","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",57
+"17-05-2022 10:19:44","SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mydb.ts_authentication' doesn't exist","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",57
+"17-05-2022 10:21:44","SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'd_timeOut = 0,
+                         WHERE d_user = 1' at line 3","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",97
+"17-05-2022 11:15:11","SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mydb.ts_authentication' doesn't exist","C:\wamp64\www\school\eindwerk\v0.2\scripts\A_logon.php",57
+"24-05-2022 19:26:02","Unable to load template 'file:mail.tpl'","C:\wamp64\www\school\webapplicaties\eindwerk\v4.1\smarty\sysplugins\smarty_internal_template.php",185
+"08-06-2022 10:53:57","SQLSTATE[42S22]: Column not found: 1054 Unknown column 't_gender' in 'field list'","C:\wamp64\www\school\webapplicaties\eindwerk\10_social\php_lib\dropDown.inc.php",46
